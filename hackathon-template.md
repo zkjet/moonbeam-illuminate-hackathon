@@ -1,0 +1,21 @@
+# TITLE
+
+# TAGLINE
+
+# SCHEDULE
+
+## DATES
+
+# SOCIALS
+* Twitter
+* Discords (Join discord for sponsor assistance)
+
+# [SPONSORS]
+* SPONSOR A (URL)
+* SPONSOR B (URL)
+* SPONSOR C (URL)
+* SPONSOR D (URL)
+
+# SUBMISSION PROCESS
+
+# IMPORTANT DEADLINES, TIMES
