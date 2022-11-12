@@ -1,3 +1,7 @@
 [submodule "solidity-examples"]
 	path = solidity-examples
 	url = https://github.com/zkjet/solidity-examples
+
+[submodule "axelar-local-gmp-examples"]
+	path = axelar-local-gmp-examples
+	url = https://github.com/zkjet/axelar-local-gmp-examples
